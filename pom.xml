@@ -15,7 +15,7 @@
  ~  KIND, either express or implied.  See the License for the
  ~  specific language governing permissions and limitations
  ~  under the License.
--->
+--> 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.wso2.carbon.connector</groupId>
@@ -24,7 +24,7 @@
     <version>2.0.6-SNAPSHOT</version>
     <name>WSO2 Carbon - Mediation Library Connector For Twitter</name>
     <url>http://wso2.org</url>
-    <properties>
+    <properties> 
         <connector.name>twitter</connector.name>
         <test.framework.version>4.2.0</test.framework.version>
         <esb.version>4.9.0</esb.version>
